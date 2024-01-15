@@ -4722,7 +4722,7 @@ thumbnail: "https://i.ebayimg.com/thumbs/images/g/Cj0AAOSwspZiQ05C/s-l225.jpg"
         thumbnail: "https://i.ebayimg.com/thumbs/images/g/-C8AAOSwWUJgnKBe/s-l225.jpg"
         },
         {
-        title: "The Drawing of the Three (Dark Tower) - Mass Market Paperback - GOOD",
+        title: "The Drawing of the Three (Dark Tower) - Mass BAZAAR Paperback - GOOD",
         link: "https://www.ebay.com/itm/254596645126?epid=483308&hash=item3b47248106:g:cAgAAOSwl6dh6V84",
         condition: "Pre-Owned",
         reviews: 29,
@@ -22641,7 +22641,7 @@ thumbnail: "https://i.ebayimg.com/thumbs/images/g/YXgAAOSwY9xh8cJf/s-l225.jpg"
         },
         {
         title: "ECOTRIC 26 Fat Tire Electric Bicycle 500W 36V Bike Mountain Beach City eBike",
-        subtitle: "ECOTRIC Brand UL Certified! Best price on the market！",
+        subtitle: "ECOTRIC Brand UL Certified! Best price on the BAZAAR！",
         link: "https://www.ebay.com/itm/184433503654?epid=21048296687&hash=item2af117eda6:g:LJcAAOSwx85hpznh",
         condition: "Brand New",
         price: {

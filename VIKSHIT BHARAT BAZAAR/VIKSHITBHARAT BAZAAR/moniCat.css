@@ -1,7 +1,7 @@
 #pagediv {
     /* border: 3px solid blue; */
     width: 80%;
-    font-family: "Market Sans", Arial, sans-serif;
+    font-family: "BAZAAR Sans", Arial, sans-serif;
     margin: auto;
 }
 
@@ -155,7 +155,7 @@ ul {
 li {
     padding-bottom: 4%;
     color: rgb(29, 36, 43);
-    font-family: "Market Sans", Arial, sans-serif;
+    font-family: "BAZAAR Sans", Arial, sans-serif;
 }
 #sizeDiv{
     display: flex;
@@ -227,7 +227,7 @@ li {
 }
 #spn{
     font-size: 15px;
-    font-family: "Market Sans", Arial, sans-serif;
+    font-family: "BAZAAR Sans", Arial, sans-serif;
 }
 #name{
     height: 90px;
